@@ -1,0 +1,7 @@
+url_charset: ISO-8859-7
+url_base: http://meteosearch.meteo.gr/data
+url_place: athens
+url_year_from: 2008
+url_year_till: 2018
+url_month_from: 8
+url_month_till: 8
